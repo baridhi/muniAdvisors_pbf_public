@@ -1,0 +1,13 @@
+cff-version: 1.0.0
+title: "Code and Data for: "The Evolving Role of 21st Century Municipal Financial Advisors" v1.0.0"
+authors:
+  - family-names: Garrett
+    given-names: Daniel
+  - family-names: Malakar
+    given-names: Baridhi
+version: 1.0.0
+date-released: 2026-01-01
+repository-code: https://github.com/baridhi/muniAdvisors_pbf_public
+abstract: >
+  This release provides a frozen, citable snapshot of the code and data used in “The Evolving Role of 21st Century Municipal Financial Advisors”. The repository contains: Code to construct the Form MA data on municipal advisors from SEC (PB&F) dataset Scripts for data cleaning, and feature construction This release is archived in Harvard Dataverse with a DOI for citation and long-term preservation. GitHub repository: https://github.com/baridhi/muniAdvisors_pbf_public
+license: MIT
