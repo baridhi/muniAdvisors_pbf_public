@@ -22,6 +22,3 @@ If you find this work/data useful, please cite the following:
   journal={Public Budgeting & Finance},
   year={2025}
 }
-  journal={Available at SSRN 5951394},
-  year={2025}
-}
