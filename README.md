@@ -10,3 +10,18 @@ Having downloaded the filings (Form MA; Form MA-W; and Form MA-I), we now procee
   - Form MA-I data (Data/sec_form_ma_i.csv) with [this code](https://github.com/baridhi/muniAdvisors_pbf_public/blob/main/Code/Step5_getDF_formMA_I.ipynb).
 
 For reference, we also provide the snapshot of data files (Form MA; Form MA-W; and Form MA-I) downloaded at the time of writing this paper. These files are included in the [.\Data](https://github.com/baridhi/muniAdvisors_pbf_public/tree/main/Data) subfolder of this repository.
+If you find this work/data useful, please cite the following:
+
+<details>
+<summary><strong>📄 BibTeX Citation</strong></summary>
+
+```bibtex
+@article{garrett2025evolving,
+  title={The Evolving Role of 21st Century Municipal Financial Advisors},
+  author={Garrett, Daniel and Malakar, Baridhi},
+  journal={Public Budgeting & Finance},
+  year={2025}
+}
+  journal={Available at SSRN 5951394},
+  year={2025}
+}
