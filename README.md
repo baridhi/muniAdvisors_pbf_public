@@ -21,5 +21,5 @@ If you find this work/data useful, please cite the following:
   title={The Evolving Role of 21st Century Municipal Financial Advisors},
   author={Garrett, Daniel and Malakar, Baridhi},
   journal={Public Budgeting & Finance},
-  year={2025}
+  year={2026}
 }
